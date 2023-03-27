@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriele-Stringano
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML, JAVA, SQL
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on WEB3
 - 📫 How to reach me: Discord MasterWalsh#8322
