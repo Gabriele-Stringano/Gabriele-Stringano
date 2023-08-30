@@ -1,9 +1,5 @@
-<h1 align="center">
-  Gabriele Stringano
-</h1>
-
 ## Hey! 👋
-I'm Gabriele, a 23 years old web developer from Italy.
+I'm Gabriele Stringano, a 23 years old web developer from Italy.
 
 - 👨‍💻 Working at [@3TechStudio](https://www.3techstudio.com/)
   
