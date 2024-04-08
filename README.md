@@ -1,10 +1,10 @@
 ## Hey! 👋
-I'm Gabriele Stringano, a 23 years old web developer from Italy.
+I'm Gabriele Stringano, a 24 years old web developer from Italy.
 
-- 👨‍💻 Working at [@3TechStudio](https://www.3techstudio.com/)
+- 👨‍💻 Working at [Etruria P.A](https://www.etruriapa.it/)
   
 ## Skills
-- 👨‍💻 JavaScript, Typescript, Java
+- 👨‍💻 JavaScript, Typescript, Php
 - ⚙️ React, Node.js, Nest
 - 👁️ SASS, CSS
 - 💽 MySQL, MongoDB, AWS, Prisma
