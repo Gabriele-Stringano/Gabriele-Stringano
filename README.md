@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Gabriele Stringano, a 24 years old web developer from Italy.
+I'm Gabriele Stringano, a 25 years old web developer from Italy.
 
 - 👨‍💻 Working at [Etruria P.A](https://www.etruriapa.it/)
   
@@ -7,7 +7,8 @@ I'm Gabriele Stringano, a 24 years old web developer from Italy.
 - 👨‍💻 JavaScript, Typescript, Php
 - ⚙️ React, Node.js, Nest
 - 👁️ SASS, CSS
-- 💽 MySQL, MongoDB, AWS, Prisma
+- 💽 MySQL, MongoDB, Prisma
+- 🛠️ Redis, Kafka
 + a lot more :D
 
 ## Contact
