@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Gabriele Stringano, a 25 years old web developer from Italy.
+I'm Gabriele Stringano, a 26 years old web developer from Italy.
 
 - 👨‍💻 Working at [Etruria P.A](https://www.etruriapa.it/)
   
